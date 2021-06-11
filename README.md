@@ -1,1 +1,1 @@
-Java Console App olarak yazılmış kaydetme özelliği dahil edilmiş bir hafıza oyunu
+Oyunu test etmek için Hafiza_Oyunu.jar dosyasını indirip çalıştırabilirsiniz.
